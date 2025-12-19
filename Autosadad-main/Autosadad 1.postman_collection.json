@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "9a3d462a-1b86-49a8-9dc4-304c9eb85838",
+		"name": "Autosadad 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50629770",
+		"_collection_link": "https://nourmsamir-6245190.postman.co/workspace/nour's-Workspace~f2bd4594-1842-47aa-8b2e-5ab1e73b7e32/collection/50629770-9a3d462a-1b86-49a8-9dc4-304c9eb85838?action=share&source=collection_link&creator=50629770"
+	},
+	"item": [
+		{
+			"name": "post create users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post create bill",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post create reminder",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get reminders",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "create payment integration",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get all payment integration",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get Payments by user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
