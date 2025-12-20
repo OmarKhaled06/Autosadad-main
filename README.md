@@ -7,6 +7,49 @@ Instructor: Dr. Nourhan Hamdi
 Teaching Assistants: Mr. Nour Gaser, Mr. Omar Alaa  
 
 ---
+Based on the code and documentation provided in the repository, here is a comprehensive project description formatted for GitHub (README.md).
+
+---
+
+# Auto Sadad 💸
+
+**Auto Sadad** is a smart repayment platform designed to centralize bills, loans, and installment payments into a single dashboard. It helps users track due dates, receive reminders, and automate payments through simulated integrations with Egyptian payment services like Fawry and InstaPay.
+
+### 🚀 Problem It Solves
+
+Managing financial obligations can be chaotic. People often forget due dates, lose track of payment amounts, and struggle with payments scattered across multiple apps. This leads to accumulated late fees and missed payments. **Auto Sadad** solves this by aggregating all financial commitments in one place to improve personal financial control.
+
+---
+
+## ✨ Key Features
+
+### MVP (Minimum Viable Product)
+
+* **User Authentication**: Secure registration and login using JWT (JSON Web Tokens) and password hashing.
+* **Bill Aggregator**: Centralized view to add, update, and delete bills from multiple providers.
+* **Smart Reminders**: Automated notifications for upcoming due dates with customizable frequency (once, weekly, monthly).
+* **Automated Payments**: Users can set up "Auto-Pay Rules" to automatically handle bills under a specific amount.
+* **Payment Integration (Simulation)**: Simulates transactions via providers like Fawry or banks without actual financial deduction.
+
+### Future Scope
+
+* Dashboard & Analytics
+* Payment History
+* Profile Management
+
+---
+
+## 🛠️ Tech Stack
+
+This project is built using a RESTful API architecture with the following technologies:
+
+* **Runtime**: [Node.js](https://nodejs.org/)
+* **Framework**: [Express.js](https://expressjs.com/)
+* **Database**: [MongoDB](https://www.mongodb.com/) (using [Mongoose](https://mongoosejs.com/) for object modeling)
+* **Authentication**: `jsonwebtoken` (JWT) & `bcryptjs` for security
+* **Environment Management**: `dotenv`
+* **Utilities**: `cors`, `morgan` (logging)
+
 
 ## 1. Team Members
 
