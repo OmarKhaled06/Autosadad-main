@@ -42,7 +42,7 @@ Managing financial obligations can be chaotic. People often forget due dates, lo
 ## 🛠️ Tech Stack
 
 This project is built using a RESTful API architecture with the following technologies:
-
+**MERN Stack**
 * **Runtime**: [Node.js](https://nodejs.org/)
 * **Framework**: [Express.js](https://expressjs.com/)
 * **Database**: [MongoDB](https://www.mongodb.com/) (using [Mongoose](https://mongoosejs.com/) for object modeling)
